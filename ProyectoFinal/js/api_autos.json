@@ -1,0 +1,73 @@
+[{
+        "precio": "$29,999.00",
+        "id": 1,
+        "title": "MacBook Pro 13 Pulgadas",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/1.png"
+    },
+    {
+        "precio": "$19,999.00",
+        "id": 2,
+        "title": "MacBook Pro",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/14.jpg"
+    },
+    {
+        "precio": "$26,499.00",
+        "id": 3,
+        "title": "MacBook Air 13 - M1",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/3.png"
+    },
+    {
+        "precio": "$8,500.00",
+        "id": 4,
+        "title": "Laptop Dell Latitude",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/4.png"
+    },
+    {
+        "precio": "$38,650.00",
+        "id": 5,
+        "title": "Laptop Gamer Dell",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/5.jpg"
+    },
+    {
+        "precio": "$5905.39",
+        "id": 6,
+        "title": "Dell Computadoras de escritorio",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/6.jpg"
+    },
+    {
+        "precio": "$23,799.00",
+        "id": 7,
+        "title": "HP Pavilion",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/7.jpg"
+    },
+    {
+        "precio": "$13,071",
+        "id": 8,
+        "title": "Laptop HP Pavilion 15",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/8.jpg"
+    },
+    {
+        "precio": "$6,124.89",
+        "id": 9,
+        "title": "HP Elite Computadora",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/9.jpg"
+    },
+    {
+        "precio": "$41,250.00",
+        "id": 10,
+        "title": "Alienware M15 Gaming",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/10.jpg"
+    },
+    {
+        "precio": "$43447.32",
+        "id": 11,
+        "title": "Alienware 17",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/11.jpg"
+    },
+    {
+        "precio": "$10,874.01",
+        "id": 12,
+        "title": "Lenovo Laptop Ideapad 15.6",
+        "thumbnailUrl": "https://pizzeria-villarreal.000webhostapp.com/Laptops/12.jpg"
+    }
+]
